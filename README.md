@@ -2,6 +2,8 @@
 
 Welcome to **PulseList**, your sleek and modern task management web application. PulseList provides an intuitive interface for creating, updating, and deleting tasks in real time. Built with Python (Flask), JavaScript (Vanilla JS), and SQLite (via SQLAlchemy), PulseList emphasizes simplicity, responsive design, and code clarity.
 
+![pulselist](https://github.com/user-attachments/assets/95927413-d92c-4c66-801a-fdbde5763ac3)
+
 ---
 
 ### Table of Contents
