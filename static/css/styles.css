@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-group-item.completed {
+    background: #e9ecef;
+}
+
+.task-details {
+    flex: 1;
+    margin: 0 1rem;
+}
+
+.task-meta {
+    font-size: 0.85rem;
+    color: #6c757d;
+}
